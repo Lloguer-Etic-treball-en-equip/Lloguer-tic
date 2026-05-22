@@ -68,6 +68,8 @@ Durant el desenvolupament del projecte i el treball en equip a través de GitHub
 
 * **Càrrega d'imatges (CORS):** Al principi les imatges no carregaven i la pantalla es veia borrosa per les diferències de resolució. Ho vam solucionar executant el joc mitjançant un servidor local i ajustant el `devicePixelRatio` a la configuració de Phaser.
 
+* **Problemes d'edició:** Al final de tot vam tenir varis problemes amb el joc ja que vam editar el codi però finalment ho vam poder tornar a ficar tot tal i com estava.
+
 
 
 ## 5. Manual d'usuari
